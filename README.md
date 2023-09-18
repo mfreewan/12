@@ -1,11 +1,14 @@
 # zahr_alrumman2
 <h5>Final Zahr Alrumman web Project ( with API )</h5>
 
+<hr>
+
 <h3>Discription</h3>
 
 <h1>Zahr Alrumman Charitable   association web sit</h1>
 build Zahr Alrumman Charitable association web site by Django :
    1. The web site will contain all of about zahr alrumman, News , Events , Activating Projects , Number of achievements (home projects, education , project grants and family aid number )  and poster contain  some photos and details 
+   <br>
     2. The web site will be provide in kind donation and cash donation for donors .
 
 <h1>There are 3 types of users in the site :</h1>
